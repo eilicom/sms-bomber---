@@ -4,8 +4,8 @@ from re import match, sub
 from threading import Thread, active_count
 import urllib3; urllib3.disable_warnings()
 from time import sleep
-# Channel: @eili_ch  - :)
-# Coder: @EiLiCom - :)
+# Channel: @Eilicom_ch  - :)
+# Coder: EiLiCom - :)
 try:
     from requests import get, post
 except ImportError:
@@ -1140,5 +1140,5 @@ if __name__ == '__main__':
 
 
         
-# Channel: eili_ch  - :)
-# Coder: @eilicom - :)
+# Channel: eilicom_ch  - :)
+# Coder: eilicom - :)
