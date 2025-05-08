@@ -4,7 +4,7 @@ from re import match, sub
 from threading import Thread, active_count
 import urllib3; urllib3.disable_warnings()
 from time import sleep
-# Channel: @Eilicom_ch  - :)
+# Channel: @iamthewe  - :)
 # Coder: EiLiCom - :)
 try:
     from requests import get, post
@@ -87,7 +87,7 @@ def torob(phone):
             return True # torob
     except:
         pass
-    # Channel: @eili_ch  - :)
+    # Channel: @eilicom_ch  - :)
     # Coder: @EiLiCom - :)
 def snapfood(phone):
     sfoodU = 'https://snappfood.ir/mobile/v2/user/loginMobileWithNoPass?lat=35.774&long=51.418&optionalClient=WEBSITE&client=WEBSITE&deviceType=WEBSITE&appVersion=8.1.0&UDID=39c62f64-3d2d-4954-9033-816098559ae4&locale=fa'
@@ -867,12 +867,12 @@ if __name__ == '__main__':
             print(char, end='', flush=True)
             sleep(.01)
     printLow(f'''{r}++++++++++++++++++++++++++++
-{w} Telegram : T.me/eili_ch ++
+{w} Telegram : T.me/iamthewe ++
 {g} +++++++++++++++++++++++++
 
 {y}Info:
-    {g}[+] {y}Coder: {w}@eilicom
-    {g}[+] {y}TelegramChannel: {w}@eili_ch
+    {g}[+] {y}Coder: {w}eilicom
+    {g}[+] {y}TelegramChannel: {w}@iamthewe
     
 {y}system:
     {g}[+] {y}Platform: {w}{System}
@@ -1140,5 +1140,5 @@ if __name__ == '__main__':
 
 
         
-# Channel: eilicom_ch  - :)
+# Channel: iamthewe  - :)
 # Coder: eilicom - :)
